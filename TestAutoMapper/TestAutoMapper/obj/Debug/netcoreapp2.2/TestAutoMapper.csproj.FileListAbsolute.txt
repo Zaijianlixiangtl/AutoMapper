@@ -1,0 +1,14 @@
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.deps.json
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.runtimeconfig.json
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.runtimeconfig.dev.json
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.dll
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.csprojAssemblyReference.cache
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.csproj.CoreCompileInputs.cache
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.RazorAssemblyInfo.cache
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.RazorAssemblyInfo.cs
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.AssemblyInfoInputs.cache
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.AssemblyInfo.cs
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.RazorTargetAssemblyInfo.cache
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.pdb
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.dll
+G:\MyCode\AutoMapper\TestAutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.pdb
